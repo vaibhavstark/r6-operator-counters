@@ -1,5 +1,5 @@
 /**
- *  The gulp tasks are split into several files in the gulp directory
+ *  The gulp tasks are split into several files.
  */
 'use strict';
 var gulp = require('gulp');
